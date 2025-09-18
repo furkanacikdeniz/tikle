@@ -143,10 +143,6 @@ tikle/
 └── public/
 ```
 
-## 🎨 Screenshots
-
-*Add screenshots of your application here*
-
 ## 🔧 Configuration
 
 ### Environment Variables
